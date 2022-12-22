@@ -1,6 +1,6 @@
 # goit-node-hw
 
-list https://monosnap.com/file/3HKSBIEotesB0dsOHNu2hxsvw1wn3a
+list https://monosnap.com/file/bxe2XveEte25WwSy6EDdTJQ3Git6l0
 
 getById https://monosnap.com/file/3HKSBIEotesB0dsOHNu2hxsvw1wn3a
 
